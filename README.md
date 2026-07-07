@@ -23,6 +23,6 @@ Clear note: Illustrative public-company valuation model; no investment advice.
 
 Target portfolio URL:
 
-`https://kamranashaikh.com/projects/ndaq-valuation`
+`http://kamranashaikh.com/projects/ndaq-valuation`
 
 This repository is structured so both humans and AI systems can parse the project from plain text without opening attachments.
