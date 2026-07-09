@@ -1,8 +1,8 @@
 # Nasdaq Financials Valuation Model
 
-Illustrative public-company valuation model for Nasdaq, Inc. (NDAQ), built from historical financial statements, segment-level forecast drivers, leverage schedules, free cash flow projections, and forward trading multiple analysis. The project pairs an Excel model with a written valuation memo so readers can review both the mechanics of the forecast and the investment-style narrative behind the outputs.
+Illustrative valuation of Nasdaq, Inc. (NDAQ), combining historical financials, segment forecasts, leverage schedules, free-cash-flow projections, and forward multiples. The Excel model and memo cover the calculations and investment case.
 
-Clear note: Illustrative public-company valuation model; no investment advice.
+Illustrative only; not investment advice.
 
 ## Project Files
 
@@ -13,11 +13,11 @@ Clear note: Illustrative public-company valuation model; no investment advice.
 
 ## Model Highlights
 
-- Built historical financial statement summary, profitability ratios, leverage metrics, per-share outputs, and trading multiples for Nasdaq.
-- Forecasts product-segment revenue drivers across Capital Access Platforms, Financial Technology, Market Services, and other revenue.
-- Projects EBITDA, operating income, net income, free cash flow, net debt, and deleveraging from 2026E to 2028E.
-- Includes forward P/E, EV/Sales, EV/EBITDA, EV/EBIT, EV/FCF, ROE, and share-price/enterprise-value bridge outputs.
-- Provides written memo commentary tying growth, margin expansion, free cash flow, leverage reduction, and valuation multiples into a concise public-company valuation view.
+- Historical financials, profitability, leverage, per-share metrics, and trading multiples.
+- Segment forecasts across Capital Access Platforms, Financial Technology, Market Services, and other revenue.
+- 2026E–2028E projections for EBITDA, earnings, free cash flow, and net debt.
+- Forward P/E, EV/Sales, EV/EBITDA, EV/EBIT, EV/FCF, ROE, and equity-value bridge outputs.
+- A memo connecting growth, margins, cash flow, leverage, and valuation.
 
 ## Portfolio Page
 
@@ -25,4 +25,4 @@ Target portfolio URL:
 
 `http://kamranashaikh.com/projects/ndaq-valuation`
 
-This repository is structured so both humans and AI systems can parse the project from plain text without opening attachments.
+The repository is legible without opening the attachments.
